@@ -14,13 +14,9 @@ You will need to have Python 3, numPy, and pandas installed.
 
 Install Python 3. Then,
 
-Install numPy:
-
 ```
 pip install numpy
 ```
-
-Install pandas:
 
 ```
 pip install pandas
