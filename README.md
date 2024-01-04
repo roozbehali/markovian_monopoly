@@ -1,6 +1,6 @@
 # Modelling Monopoly with Markov Chains
 
-This is my HL Math AA internal assessment, a project where you are allowed to explore any out-of-syllabus topic. I chose to use Markov Chains to find the most optimal properties on the Monopoly board to buy. The math can be found in my paper, linked in the "About". Try this in your next Monopoly game. Nobody will want to play with you again.
+This is my HL Math AA internal assessment (and a level 7 exemplar 🥱), a project where you are allowed to explore any out-of-syllabus topic. I chose to use Markov Chains to find the most optimal properties on the Monopoly board to buy. The math can be found in my paper, linked in the "About". Try this in your next Monopoly game. Nobody will want to play with you again.
 
 ### Prerequisites
 
