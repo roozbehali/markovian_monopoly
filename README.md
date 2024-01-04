@@ -1,10 +1,6 @@
 # Modelling Monopoly with Markov Chains
 
-This is my HL Math AA internal assessment, a project where you are allowed to explore any out-of-syllabus topic. I chose to use Markov Chains to find the most optimal properties on the Monopoly board to buy. 
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This is my HL Math AA internal assessment, a project where you are allowed to explore any out-of-syllabus topic. I chose to use Markov Chains to find the most optimal properties on the Monopoly board to buy. The math can be found in my paper, linked in the "About". Try this in your next Monopoly game. Nobody will want to play with you again.
 
 ### Prerequisites
 
@@ -22,7 +18,7 @@ pip install numpy
 pip install pandas
 ```
 
-## Deployment
+## Usage instructions
 
 Run 'simulator.py' if you would like to compile your own results table. This file simply runs 'script.py' 1000 times, where 'script.py' simply walks through the transition matrix created by 'revised.py'. The updated rankings will be in 'ordered.csv'. You can view these in a more readable format here: https://csv-viewer-online.github.io/
 
