@@ -20,7 +20,7 @@ pip install pandas
 
 ## Usage instructions
 
-Run 'simulator.py' if you would like to compile your own results table. This file simply runs 'script.py' 1000 times, where 'script.py' simply walks through the transition matrix created by 'revised.py'. The updated rankings will be in 'ordered.csv'. You can view these in a more readable format here: https://csv-viewer-online.github.io/
+Run 'simulator.py' if you would like to compile your own results table. This file simply runs 'script.py' 1000 times, where 'script.py' walks through the transition matrix created by 'revised.py'. The updated rankings will be in 'ordered.csv'. You can view these in a more readable format here: https://csv-viewer-online.github.io/
 
 ## Built With
 
